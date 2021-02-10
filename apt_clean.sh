@@ -4,9 +4,9 @@
 #
 # author: Parker Swierzewski
 # lanugage: Bash Script
-# description:
-# This program cleans the apt cache and updates missing folders. I ran into this error 
-#  shortly after setting up my VM.
+# description: This program cleans the apt cache and updates missing folders. I ran into this error 
+#               shortly after setting up my VM.
+#
 # Error:
 #    E: Could not get lock /var/lib/dpkg/lock-frontend - open 
 #       (11: Resource temporarily unavailable)
